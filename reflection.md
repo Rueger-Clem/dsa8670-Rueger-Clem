@@ -1,0 +1,5 @@
+Week 5 Reflection
+
+One of the biggest things I learned from the readings was how GitHub provides a structured way to keep track of changes throughout a project. I had used files and other software for school projects before, but working with repositories, commits, branches, and pull requests showed me how version control can make a project much easier to manage. Going through the process myself helped connect the concepts from the readings to how GitHub is actually used.
+
+One challenge I experienced was getting comfortable with the different steps involved in making changes, committing them, pushing them, and working with branches. At first, it was easy to confuse what was happening locally in GitHub Desktop with what was happening on GitHub.com. Following the workflow and seeing how a branch could be created, changed, reviewed through a pull request, and then merged helped me understand the process much better. In future team projects, GitHub will provide a way for everyone to work on their own changes while maintaining a shared project history and giving the team a way to review work before it becomes part of the main project.
