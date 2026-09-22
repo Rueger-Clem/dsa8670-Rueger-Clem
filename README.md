@@ -24,6 +24,12 @@ By the end of Week 5, you should be able to:
 
 ---
 
+## Why Version Control Matters
+
+Version control is important in analytics because it allows changes to data, code, and project files to be tracked over time without losing previous versions. GitHub makes it easier for analysts to collaborate, review changes, and maintain an organized project history. The GitHub readings showed how repositories, commits, branches, and pull requests work together to manage changes safely. These tools can help analytics teams collaborate while reducing the risk of accidentally overwriting someone else's work.
+
+---
+
 ## Prerequisites
 
 - A GitHub account with your Clemson email verified (Setup Assignment 1).
